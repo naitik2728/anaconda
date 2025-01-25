@@ -1,0 +1,13 @@
+.main{
+    width:1000px;
+    height:500px;
+    background-color: aqua;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    
+    .main:hover{background-color:green;
+        color: black;
+
+    }
